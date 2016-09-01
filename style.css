@@ -1,6 +1,8 @@
 header {
   color: #663366;
   background-color:#87CEFA;
+  width: 50%;
+  text-align: center;
 }
 
 p {
